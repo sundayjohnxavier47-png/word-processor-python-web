@@ -1,6 +1,6 @@
 # word-processor-python-web
 
-A web front-end for [word-processor-python](https://github.com/jxavier/word-processor-python) — paste text into a browser, get the cleaned-up version back instantly. Built with Flask.
+A web front-end for [word-processor-python]https://github.com/sundayjohnxavier47-png/word-processor-python.git — paste text into a browser, get the cleaned-up version back instantly. Built with Flask.
 
 ## Features
 
